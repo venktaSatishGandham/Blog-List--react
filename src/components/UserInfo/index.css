@@ -1,0 +1,14 @@
+/* Write your CSS code here */
+.userInfo-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.user-img {
+  width: 150px;
+  height: 150px;
+}
+.user-name {
+  font-size: 20px;
+}
